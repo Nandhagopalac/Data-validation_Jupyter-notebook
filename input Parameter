@@ -1,0 +1,26 @@
+{ "config":
+[{
+"download": "Downloads",
+"spath": "S3",
+"edipath": "edi",
+"table_name": "sdp_nrmp_flood",
+"dbname": "bdwsdp01n",
+"src_sys_inst_id": "instance=GRP",
+"business_dates3": "business_date=2021-04-09", 
+"businessdateedi": "20210409",
+"file_name": "GRP_SDP_NRMP_FLOOD.dat.4051258"
+},
+{
+"download": "Downloads",
+"spath": "S3",
+"edipath": "edi",
+"table_name": "sdp_nrmp_epcnd_certi",
+"dbname": "bdwsdp01n",
+"src_sys_inst_id": "instance=GRP",
+"business_dates3": "business_date=2021-04-09", 
+"businessdateedi": "20210409",
+"file_name": "GRP_SDP_NRMP_EPCND_CERTI.dat.4051258"
+}
+]
+}
+
