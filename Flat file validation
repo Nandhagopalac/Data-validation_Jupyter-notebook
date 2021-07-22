@@ -5,7 +5,6 @@ from pathlib import Path
 import filecmp
 import difflib
 from difflib import Differ
-import pandas as pd
 import itertools
 with open("Downloads/input_parm.json") as file:
       # Load its content and make a new dictionary
